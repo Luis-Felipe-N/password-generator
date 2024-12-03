@@ -1,0 +1,1 @@
+from generator.views.IndexView import IndexView
